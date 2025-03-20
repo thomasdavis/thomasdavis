@@ -482,12 +482,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="275.7078932918785" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="275.7078932918785" y="0" width="153.4716507526759" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="429.1795440445544" y="0" width="15.205622071837585" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="444.385166116392" y="0" width="10.165510257927878" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="454.5506763743199" y="0" width="5.27793030171215" height="8" fill="#fcb32c"/>
-                    <rect mask="url(#languages-bar)" x="459.82860667603205" y="0" width="0.1713933239679676" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="274.9134392670557" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="274.9134392670557" y="0" width="154.35491411475897" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="429.2683533818147" y="0" width="15.161806976409334" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="444.43016035822404" y="0" width="10.136218276322408" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="454.5663786345464" y="0" width="5.262721912424252" height="8" fill="#fcb32c"/>
+                    <rect mask="url(#languages-bar)" x="459.82910054697066" y="0" width="0.17089945302931459" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -500,7 +500,7 @@
                             </div>
                             <small>
                                 <div>336 kB</div>
-                                <div>59.94%</div>
+                                <div>59.76%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -512,7 +512,7 @@
                             </div>
                             <small>
                                 <div>18.5 kB</div>
-                                <div>3.31%</div>
+                                <div>3.3%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -524,7 +524,7 @@
                             </div>
                             <small>
                                 <div>6.44 kB</div>
-                                <div>1.15%</div>
+                                <div>1.14%</div>
                             </small>
                         </div>
                     </section>
@@ -537,8 +537,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>187 kB</div>
-                                <div>33.36%</div>
+                                <div>188 kB</div>
+                                <div>33.56%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -550,7 +550,7 @@
                             </div>
                             <small>
                                 <div>12.4 kB</div>
-                                <div>2.21%</div>
+                                <div>2.2%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -672,7 +672,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Mar 2025, 02:06:42 (timezone America/Sao_Paulo) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 20 Mar 2025, 03:08:22 (timezone America/Sao_Paulo) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
